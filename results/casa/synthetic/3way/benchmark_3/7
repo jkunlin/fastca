@@ -1,0 +1,90 @@
+0.00/0.00	Passing control to primary algorithm
+0.00/0.00	Setting up annealing framework
+0.09/0.15	Annealing
+0.09/0.15	Suspect that the optimum number of rows is in [32..320]
+0.09/0.15	Starting binary search
+0.09/0.15	Trying 224 rows
+0.09/0.15	Building start state
+0.19/0.21	Searching
+0.19/0.24	Considering a full row change
+0.19/0.25	Search stopped after 53/256 iteration(s) with 0 uncovered t-sets and 783768 multicovered t-sets
+0.19/0.25	Used 53 total iterations thus far
+0.19/0.25	Sorting rows for distinct coverage
+0.29/0.33	Saving rows in resurrection buffer
+0.29/0.33	Met coverage with 224 rows
+0.29/0.33	Trying 160 rows
+0.29/0.33	Building start state
+0.29/0.35	Searching
+0.29/0.36	Search stopped after 7/256 iteration(s) with 0 uncovered t-sets and 549912 multicovered t-sets
+0.29/0.36	Used 60 total iterations thus far
+0.29/0.36	Sorting rows for distinct coverage
+0.39/0.42	Saving rows in resurrection buffer
+0.39/0.42	Met coverage with 160 rows
+0.39/0.42	Trying 117 rows
+0.39/0.42	Building start state
+0.39/0.43	Searching
+0.39/0.44	Search stopped after 7/256 iteration(s) with 0 uncovered t-sets and 392790 multicovered t-sets
+0.39/0.44	Used 67 total iterations thus far
+0.39/0.44	Sorting rows for distinct coverage
+0.39/0.48	Saving rows in resurrection buffer
+0.39/0.48	Met coverage with 117 rows
+0.39/0.48	Trying 88 rows
+0.39/0.48	Building start state
+0.39/0.49	Searching
+0.39/0.54	Search stopped after 67/256 iteration(s) with 0 uncovered t-sets and 286824 multicovered t-sets
+0.39/0.54	Used 134 total iterations thus far
+0.39/0.54	Sorting rows for distinct coverage
+0.39/0.57	Saving rows in resurrection buffer
+0.39/0.57	Met coverage with 88 rows
+0.39/0.57	Trying 69 rows
+0.39/0.57	Building start state
+0.39/0.58	Searching
+0.39/0.75	0 iterations left after this one
+0.39/0.75	Search stopped after 256/256 iteration(s) with 4 uncovered t-sets and 217402 multicovered t-sets
+0.39/0.75	Used 390 total iterations thus far
+0.39/0.75	Sorting rows for distinct coverage
+0.39/0.77	Saving rows in resurrection buffer
+0.39/0.77	Failed to meet coverage with 69 rows
+0.39/0.77	Trying 71 rows
+0.39/0.77	Building start state
+0.39/0.78	Searching
+0.39/0.82	Search stopped after 68/256 iteration(s) with 0 uncovered t-sets and 224706 multicovered t-sets
+0.39/0.82	Used 458 total iterations thus far
+0.39/0.82	Sorting rows for distinct coverage
+0.39/0.85	Saving rows in resurrection buffer
+0.39/0.85	Met coverage with 71 rows
+0.39/0.85	Trying 70 rows
+0.39/0.85	Building start state
+0.39/0.86	Searching
+0.39/1.03	0 iterations left after this one
+0.39/1.03	Search stopped after 256/256 iteration(s) with 1 uncovered t-sets and 221053 multicovered t-sets
+0.39/1.03	Used 714 total iterations thus far
+0.39/1.03	Sorting rows for distinct coverage
+0.39/1.05	Saving rows in resurrection buffer
+0.39/1.05	Failed to meet coverage with 70 rows
+0.39/1.05	Upping iterations to 512
+0.39/1.05	Restarting binary search with best result at 71 rows
+0.39/1.05	Trying 70 rows
+0.39/1.05	Building start state
+1.06/1.06	Searching
+1.39/1.40	0 iterations left after this one
+1.39/1.40	Search stopped after 512/512 iteration(s) with 1 uncovered t-sets and 221053 multicovered t-sets
+1.39/1.40	Used 1226 total iterations thus far
+1.39/1.40	Sorting rows for distinct coverage
+1.39/1.42	Saving rows in resurrection buffer
+1.39/1.42	Failed to meet coverage with 70 rows
+1.39/1.42	Upping iterations to 1024
+1.39/1.42	Restarting binary search with best result at 71 rows
+1.39/1.42	Trying 70 rows
+1.39/1.42	Building start state
+1.39/1.43	Searching
+1.89/2.22	0 iterations left after this one
+1.89/2.22	Search stopped after 1024/1024 iteration(s) with 1 uncovered t-sets and 221053 multicovered t-sets
+1.89/2.22	Used 2250 total iterations thus far
+1.89/2.22	Sorting rows for distinct coverage
+1.89/2.24	Saving rows in resurrection buffer
+1.89/2.24	Failed to meet coverage with 70 rows
+1.89/2.24	Giving up with best result at 71 rows
+1.89/2.24	Total cost of computation: 2250 iteration(s)
+1.89/2.24	Control returned from primary algorithm
+1.89/2.24	Done

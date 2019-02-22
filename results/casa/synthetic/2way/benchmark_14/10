@@ -1,0 +1,206 @@
+0.00/0.03	Passing control to primary algorithm
+0.00/0.03	Setting up annealing framework
+0.28/0.32	Annealing
+0.28/0.32	Suspect that the optimum number of rows is in [36..180]
+0.28/0.32	Starting binary search
+0.28/0.32	Trying 132 rows
+0.28/0.32	Building start state
+0.38/0.49	Searching
+0.38/0.49	Search stopped after 3/256 iteration(s) with 0 uncovered t-sets and 532008 multicovered t-sets
+0.38/0.49	Used 3 total iterations thus far
+0.38/0.49	Sorting rows for distinct coverage
+0.48/0.53	Saving rows in resurrection buffer
+0.48/0.53	Met coverage with 132 rows
+0.48/0.53	Trying 100 rows
+0.48/0.53	Building start state
+0.48/0.54	Searching
+0.48/0.54	Search stopped after 10/256 iteration(s) with 0 uncovered t-sets and 398056 multicovered t-sets
+0.48/0.54	Used 13 total iterations thus far
+0.48/0.54	Sorting rows for distinct coverage
+0.48/0.58	Saving rows in resurrection buffer
+0.48/0.58	Met coverage with 100 rows
+0.48/0.58	Trying 78 rows
+0.48/0.58	Building start state
+0.48/0.59	Searching
+0.48/0.59	Search stopped after 9/256 iteration(s) with 0 uncovered t-sets and 305964 multicovered t-sets
+0.48/0.59	Used 22 total iterations thus far
+0.48/0.59	Sorting rows for distinct coverage
+0.58/0.62	Saving rows in resurrection buffer
+0.58/0.62	Met coverage with 78 rows
+0.58/0.62	Trying 64 rows
+0.58/0.62	Building start state
+0.58/0.63	Searching
+0.58/0.63	Search stopped after 1/256 iteration(s) with 0 uncovered t-sets and 247360 multicovered t-sets
+0.58/0.63	Used 23 total iterations thus far
+0.58/0.63	Sorting rows for distinct coverage
+0.58/0.64	Saving rows in resurrection buffer
+0.58/0.64	Met coverage with 64 rows
+0.58/0.64	Trying 54 rows
+0.58/0.64	Building start state
+0.58/0.65	Searching
+0.58/0.69	Search stopped after 126/256 iteration(s) with 0 uncovered t-sets and 205500 multicovered t-sets
+0.58/0.69	Used 149 total iterations thus far
+0.58/0.69	Sorting rows for distinct coverage
+0.68/0.71	Saving rows in resurrection buffer
+0.68/0.71	Met coverage with 54 rows
+0.68/0.71	Trying 48 rows
+0.68/0.71	Building start state
+0.68/0.72	Searching
+0.68/0.74	Search stopped after 117/256 iteration(s) with 0 uncovered t-sets and 180384 multicovered t-sets
+0.68/0.74	Used 266 total iterations thus far
+0.68/0.74	Sorting rows for distinct coverage
+0.68/0.76	Saving rows in resurrection buffer
+0.68/0.76	Met coverage with 48 rows
+0.68/0.76	Trying 44 rows
+0.68/0.76	Building start state
+0.68/0.77	Searching
+0.78/0.84	0 iterations left after this one
+0.78/0.84	Search stopped after 256/256 iteration(s) with 3 uncovered t-sets and 163643 multicovered t-sets
+0.78/0.84	Used 522 total iterations thus far
+0.78/0.84	Sorting rows for distinct coverage
+0.78/0.85	Saving rows in resurrection buffer
+0.78/0.85	Failed to meet coverage with 44 rows
+0.78/0.85	Trying 45 rows
+0.78/0.85	Building start state
+0.78/0.86	Searching
+0.78/0.88	Search stopped after 129/256 iteration(s) with 0 uncovered t-sets and 167826 multicovered t-sets
+0.78/0.88	Used 651 total iterations thus far
+0.78/0.88	Sorting rows for distinct coverage
+0.88/0.90	Saving rows in resurrection buffer
+0.88/0.90	Met coverage with 45 rows
+0.88/0.90	Upping iterations to 512
+0.88/0.90	Restarting binary search with best result at 45 rows
+0.88/0.90	Trying 44 rows
+0.88/0.90	Building start state
+0.88/0.90	Searching
+0.88/0.96	Search stopped after 227/512 iteration(s) with 0 uncovered t-sets and 163640 multicovered t-sets
+0.88/0.96	Used 878 total iterations thus far
+0.88/0.96	Sorting rows for distinct coverage
+0.88/0.98	Saving rows in resurrection buffer
+0.88/0.98	Met coverage with 44 rows
+0.88/0.98	Trying 42 rows
+0.88/0.98	Building start state
+0.88/0.98	Searching
+0.88/1.12	0 iterations left after this one
+0.88/1.12	Search stopped after 512/512 iteration(s) with 4 uncovered t-sets and 155272 multicovered t-sets
+0.88/1.12	Used 1390 total iterations thus far
+0.88/1.12	Sorting rows for distinct coverage
+0.88/1.14	Saving rows in resurrection buffer
+0.88/1.14	Failed to meet coverage with 42 rows
+0.88/1.14	Trying 43 rows
+0.88/1.14	Building start state
+0.88/1.14	Searching
+0.88/1.17	Search stopped after 128/512 iteration(s) with 0 uncovered t-sets and 159454 multicovered t-sets
+0.88/1.17	Used 1518 total iterations thus far
+0.88/1.17	Sorting rows for distinct coverage
+0.88/1.18	Saving rows in resurrection buffer
+0.88/1.18	Met coverage with 43 rows
+0.88/1.19	Restarting binary search with best result at 43 rows
+0.88/1.19	Trying 40 rows
+0.88/1.19	Building start state
+0.88/1.19	Searching
+0.88/1.32	0 iterations left after this one
+0.88/1.32	Search stopped after 512/512 iteration(s) with 6 uncovered t-sets and 146902 multicovered t-sets
+0.88/1.32	Used 2030 total iterations thus far
+0.88/1.32	Sorting rows for distinct coverage
+0.88/1.33	Saving rows in resurrection buffer
+0.88/1.33	Failed to meet coverage with 40 rows
+0.88/1.33	Trying 42 rows
+0.88/1.33	Building start state
+0.88/1.34	Searching
+1.34/1.48	Search stopped after 490/512 iteration(s) with 0 uncovered t-sets and 155268 multicovered t-sets
+1.34/1.48	Used 2520 total iterations thus far
+1.34/1.48	Sorting rows for distinct coverage
+1.34/1.49	Saving rows in resurrection buffer
+1.34/1.49	Met coverage with 42 rows
+1.34/1.49	Trying 41 rows
+1.34/1.49	Building start state
+1.34/1.49	Searching
+1.59/1.63	0 iterations left after this one
+1.59/1.63	Search stopped after 512/512 iteration(s) with 2 uncovered t-sets and 151084 multicovered t-sets
+1.59/1.63	Used 3032 total iterations thus far
+1.59/1.63	Sorting rows for distinct coverage
+1.59/1.65	Saving rows in resurrection buffer
+1.59/1.65	Failed to meet coverage with 41 rows
+1.59/1.65	Restarting binary search with best result at 42 rows
+1.59/1.65	Trying 40 rows
+1.59/1.65	Building start state
+1.59/1.65	Searching
+1.78/1.80	0 iterations left after this one
+1.78/1.80	Search stopped after 512/512 iteration(s) with 2 uncovered t-sets and 146898 multicovered t-sets
+1.78/1.80	Used 3544 total iterations thus far
+1.78/1.80	Sorting rows for distinct coverage
+1.78/1.81	Saving rows in resurrection buffer
+1.78/1.81	Failed to meet coverage with 40 rows
+1.78/1.81	Trying 41 rows
+1.78/1.81	Building start state
+1.78/1.82	Searching
+1.78/1.83	Search stopped after 57/512 iteration(s) with 0 uncovered t-sets and 151082 multicovered t-sets
+1.78/1.83	Used 3601 total iterations thus far
+1.78/1.83	Sorting rows for distinct coverage
+1.78/1.84	Saving rows in resurrection buffer
+1.78/1.84	Met coverage with 41 rows
+1.78/1.84	Restarting binary search with best result at 41 rows
+1.78/1.84	Trying 39 rows
+1.78/1.84	Building start state
+1.78/1.85	Searching
+1.88/1.97	0 iterations left after this one
+1.88/1.97	Search stopped after 512/512 iteration(s) with 3 uncovered t-sets and 142713 multicovered t-sets
+1.88/1.97	Used 4113 total iterations thus far
+1.88/1.97	Sorting rows for distinct coverage
+1.88/1.98	Saving rows in resurrection buffer
+1.88/1.98	Failed to meet coverage with 39 rows
+1.88/1.98	Trying 40 rows
+1.88/1.98	Building start state
+1.88/1.98	Searching
+1.98/2.00	Search stopped after 68/512 iteration(s) with 0 uncovered t-sets and 146896 multicovered t-sets
+1.98/2.00	Used 4181 total iterations thus far
+1.98/2.00	Sorting rows for distinct coverage
+1.98/2.01	Saving rows in resurrection buffer
+1.98/2.01	Met coverage with 40 rows
+1.98/2.01	Restarting binary search with best result at 40 rows
+1.98/2.01	Trying 38 rows
+1.98/2.01	Building start state
+1.98/2.02	Searching
+2.08/2.15	0 iterations left after this one
+2.08/2.15	Search stopped after 512/512 iteration(s) with 5 uncovered t-sets and 138529 multicovered t-sets
+2.08/2.15	Used 4693 total iterations thus far
+2.08/2.15	Sorting rows for distinct coverage
+2.08/2.16	Saving rows in resurrection buffer
+2.08/2.16	Failed to meet coverage with 38 rows
+2.08/2.16	Trying 39 rows
+2.08/2.16	Building start state
+2.08/2.17	Searching
+2.18/2.27	0 iterations left after this one
+2.18/2.27	Search stopped after 512/512 iteration(s) with 1 uncovered t-sets and 142711 multicovered t-sets
+2.18/2.27	Used 5205 total iterations thus far
+2.18/2.27	Sorting rows for distinct coverage
+2.18/2.28	Saving rows in resurrection buffer
+2.18/2.28	Failed to meet coverage with 39 rows
+2.18/2.28	Upping iterations to 1024
+2.18/2.28	Restarting binary search with best result at 40 rows
+2.18/2.28	Trying 39 rows
+2.18/2.28	Building start state
+2.18/2.29	Searching
+2.48/2.51	0 iterations left after this one
+2.48/2.51	Search stopped after 1024/1024 iteration(s) with 1 uncovered t-sets and 142711 multicovered t-sets
+2.48/2.51	Used 6229 total iterations thus far
+2.48/2.51	Sorting rows for distinct coverage
+2.48/2.52	Saving rows in resurrection buffer
+2.48/2.52	Failed to meet coverage with 39 rows
+2.48/2.52	Upping iterations to 2048
+2.48/2.52	Restarting binary search with best result at 40 rows
+2.48/2.52	Trying 39 rows
+2.48/2.52	Building start state
+2.48/2.53	Searching
+2.61/2.71	1024 iterations left after this one
+2.61/2.94	0 iterations left after this one
+2.61/2.94	Search stopped after 2048/2048 iteration(s) with 1 uncovered t-sets and 142711 multicovered t-sets
+2.61/2.94	Used 8277 total iterations thus far
+2.61/2.94	Sorting rows for distinct coverage
+2.61/2.95	Saving rows in resurrection buffer
+2.61/2.95	Failed to meet coverage with 39 rows
+2.61/2.95	Giving up with best result at 40 rows
+2.61/2.95	Total cost of computation: 8277 iteration(s)
+2.61/2.95	Control returned from primary algorithm
+2.61/2.95	Done

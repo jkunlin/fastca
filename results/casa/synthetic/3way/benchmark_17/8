@@ -1,0 +1,223 @@
+0.00/0.00	Passing control to primary algorithm
+0.00/0.00	Setting up annealing framework
+71.69/71.71	Annealing
+71.69/71.71	Suspect that the optimum number of rows is in [216..1080]
+71.69/71.71	Starting binary search
+71.69/71.71	Trying 792 rows
+71.69/71.71	Building start state
+87.84/87.95	Searching
+89.79/89.85	Considering a full row change
+91.69/91.74	Considering a full row change
+94.39/94.48	Considering a full row change
+94.79/94.89	Considering a full row change
+94.99/95.22	Considering a full row change
+95.79/95.80	Considering a full row change
+95.99/96.03	Considering a full row change
+97.99/98.07	Considering a full row change
+98.68/98.80	Considering a full row change
+100.39/100.45	Considering a full row change
+100.69/100.76	0 iterations left after this one
+100.69/100.76	Considering a full row change
+100.99/101.03	Search stopped after 256/256 iteration(s) with 10 uncovered t-sets and 327822405 multicovered t-sets
+100.99/101.03	Used 256 total iterations thus far
+100.99/101.03	Sorting rows for distinct coverage
+131.19/131.27	Saving rows in resurrection buffer
+131.19/131.27	Failed to meet coverage with 792 rows
+131.19/131.27	Trying 797 rows
+131.19/131.27	Building start state
+145.38/145.41	Searching
+145.38/145.44	Considering a full row change
+145.68/145.74	Considering a full row change
+145.99/146.03	Considering a full row change
+146.19/146.40	Considering a full row change
+146.19/146.78	Considering a full row change
+147.09/147.19	Considering a full row change
+147.49/147.50	Considering a full row change
+147.69/147.78	Search stopped after 12/256 iteration(s) with 0 uncovered t-sets and 329918495 multicovered t-sets
+147.69/147.78	Used 268 total iterations thus far
+147.69/147.78	Sorting rows for distinct coverage
+180.78/180.93	Saving rows in resurrection buffer
+180.78/180.94	Met coverage with 797 rows
+180.78/180.94	Trying 795 rows
+180.78/180.94	Building start state
+195.28/195.30	Searching
+195.28/195.30	Search stopped after 1/256 iteration(s) with 0 uncovered t-sets and 329080055 multicovered t-sets
+195.28/195.30	Used 269 total iterations thus far
+195.28/195.30	Sorting rows for distinct coverage
+214.49/214.56	Saving rows in resurrection buffer
+214.49/214.56	Met coverage with 795 rows
+214.49/214.57	Trying 794 rows
+214.49/214.57	Building start state
+228.58/228.82	Searching
+228.58/228.82	Search stopped after 1/256 iteration(s) with 0 uncovered t-sets and 328660835 multicovered t-sets
+228.58/228.82	Used 270 total iterations thus far
+228.58/228.82	Sorting rows for distinct coverage
+247.78/247.83	Saving rows in resurrection buffer
+247.78/247.83	Met coverage with 794 rows
+247.78/247.83	Trying 793 rows
+247.78/247.83	Building start state
+262.06/262.08	Searching
+262.06/262.08	Search stopped after 1/256 iteration(s) with 0 uncovered t-sets and 328241615 multicovered t-sets
+262.06/262.08	Used 271 total iterations thus far
+262.06/262.08	Sorting rows for distinct coverage
+280.88/280.95	Saving rows in resurrection buffer
+280.88/280.96	Met coverage with 793 rows
+280.88/280.96	Upping iterations to 512
+280.88/280.96	Restarting binary search with best result at 793 rows
+280.88/280.96	Trying 600 rows
+280.88/280.96	Building start state
+291.58/291.93	Searching
+293.78/293.85	Considering a full row change
+294.08/294.10	Search stopped after 40/512 iteration(s) with 0 uncovered t-sets and 247332155 multicovered t-sets
+294.08/294.10	Used 311 total iterations thus far
+294.08/294.10	Sorting rows for distinct coverage
+316.88/317.14	Saving rows in resurrection buffer
+316.88/317.15	Met coverage with 600 rows
+316.88/317.15	Trying 472 rows
+316.88/317.15	Building start state
+325.78/326.35	Searching
+333.38/333.74	Considering a full row change
+333.98/334.02	Considering a full row change
+334.28/334.32	Search stopped after 137/512 iteration(s) with 0 uncovered t-sets and 193671995 multicovered t-sets
+334.28/334.32	Used 448 total iterations thus far
+334.28/334.32	Sorting rows for distinct coverage
+350.88/350.95	Saving rows in resurrection buffer
+350.88/350.95	Met coverage with 472 rows
+350.88/350.96	Trying 471 rows
+350.88/350.96	Building start state
+359.88/359.98	Searching
+359.88/359.98	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 193252775 multicovered t-sets
+359.88/359.98	Used 449 total iterations thus far
+359.88/359.98	Sorting rows for distinct coverage
+369.90/369.96	Saving rows in resurrection buffer
+369.90/369.96	Met coverage with 471 rows
+369.90/369.96	Trying 386 rows
+369.90/369.96	Building start state
+377.78/377.87	Searching
+411.38/411.85	0 iterations left after this one
+411.38/411.88	Search stopped after 512/512 iteration(s) with 4 uncovered t-sets and 157619079 multicovered t-sets
+411.38/411.88	Used 961 total iterations thus far
+411.38/411.88	Sorting rows for distinct coverage
+429.08/429.19	Saving rows in resurrection buffer
+429.08/429.19	Failed to meet coverage with 386 rows
+429.18/429.20	Trying 388 rows
+429.18/429.20	Building start state
+436.87/437.11	Searching
+437.88/437.92	Search stopped after 22/512 iteration(s) with 0 uncovered t-sets and 158457515 multicovered t-sets
+437.88/437.92	Used 983 total iterations thus far
+437.88/437.92	Sorting rows for distinct coverage
+455.42/455.46	Saving rows in resurrection buffer
+455.42/455.48	Met coverage with 388 rows
+455.42/455.49	Trying 387 rows
+455.42/455.49	Building start state
+463.38/463.44	Searching
+463.38/463.44	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 158038295 multicovered t-sets
+463.38/463.44	Used 984 total iterations thus far
+463.38/463.44	Sorting rows for distinct coverage
+471.28/471.38	Saving rows in resurrection buffer
+471.28/471.38	Met coverage with 387 rows
+471.28/471.39	Restarting binary search with best result at 387 rows
+471.28/471.39	Trying 330 rows
+471.28/471.39	Building start state
+478.48/478.51	Searching
+511.18/511.23	0 iterations left after this one
+511.38/511.41	Search stopped after 512/512 iteration(s) with 101 uncovered t-sets and 134142856 multicovered t-sets
+511.38/511.41	Used 1496 total iterations thus far
+511.38/511.41	Sorting rows for distinct coverage
+528.58/528.95	Saving rows in resurrection buffer
+528.58/528.95	Failed to meet coverage with 330 rows
+528.58/529.00	Trying 380 rows
+528.58/529.00	Building start state
+536.17/536.74	Searching
+563.38/563.40	Search stopped after 486/512 iteration(s) with 0 uncovered t-sets and 155103755 multicovered t-sets
+563.38/563.40	Used 1982 total iterations thus far
+563.38/563.40	Sorting rows for distinct coverage
+583.08/583.18	Saving rows in resurrection buffer
+583.18/583.23	Met coverage with 380 rows
+583.18/583.25	Trying 379 rows
+583.18/583.25	Building start state
+591.07/591.10	Searching
+591.07/591.10	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 154684535 multicovered t-sets
+591.07/591.10	Used 1983 total iterations thus far
+591.07/591.10	Sorting rows for distinct coverage
+598.77/598.86	Saving rows in resurrection buffer
+598.77/598.86	Met coverage with 379 rows
+598.77/598.87	Trying 363 rows
+598.77/598.87	Building start state
+606.61/606.77	Searching
+619.10/619.22	Search stopped after 182/512 iteration(s) with 0 uncovered t-sets and 147977015 multicovered t-sets
+619.10/619.22	Used 2165 total iterations thus far
+619.10/619.22	Sorting rows for distinct coverage
+636.57/636.86	Saving rows in resurrection buffer
+636.57/636.90	Met coverage with 363 rows
+636.57/636.92	Trying 361 rows
+636.57/636.92	Building start state
+644.17/644.57	Searching
+644.17/644.57	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 147138575 multicovered t-sets
+644.17/644.57	Used 2166 total iterations thus far
+644.17/644.57	Sorting rows for distinct coverage
+651.67/651.91	Saving rows in resurrection buffer
+651.67/651.91	Met coverage with 361 rows
+651.67/651.92	Trying 351 rows
+651.67/651.92	Building start state
+659.07/659.32	Searching
+694.06/694.32	Search stopped after 481/512 iteration(s) with 0 uncovered t-sets and 142946375 multicovered t-sets
+694.06/694.32	Used 2647 total iterations thus far
+694.06/694.32	Sorting rows for distinct coverage
+708.86/708.92	Saving rows in resurrection buffer
+708.86/708.93	Met coverage with 351 rows
+708.86/708.93	Trying 350 rows
+708.86/708.93	Building start state
+715.87/716.32	Searching
+715.87/716.32	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 142527155 multicovered t-sets
+715.87/716.32	Used 2648 total iterations thus far
+715.87/716.32	Sorting rows for distinct coverage
+723.27/723.37	Saving rows in resurrection buffer
+723.27/723.37	Met coverage with 350 rows
+723.27/723.38	Trying 343 rows
+723.27/723.38	Building start state
+730.69/730.74	Searching
+771.36/771.46	0 iterations left after this one
+771.46/771.52	Search stopped after 512/512 iteration(s) with 3 uncovered t-sets and 139592618 multicovered t-sets
+771.46/771.52	Used 3160 total iterations thus far
+771.46/771.52	Sorting rows for distinct coverage
+792.01/792.28	Saving rows in resurrection buffer
+792.01/792.28	Failed to meet coverage with 343 rows
+792.28/792.37	Trying 344 rows
+792.28/792.37	Building start state
+799.17/799.68	Searching
+832.37/832.46	Search stopped after 415/512 iteration(s) with 0 uncovered t-sets and 140011835 multicovered t-sets
+832.37/832.46	Used 3575 total iterations thus far
+832.37/832.46	Sorting rows for distinct coverage
+849.77/850.20	Saving rows in resurrection buffer
+849.77/850.22	Met coverage with 344 rows
+849.77/850.24	Restarting binary search with best result at 344 rows
+849.77/850.24	Trying 343 rows
+849.77/850.24	Building start state
+857.56/857.70	Searching
+857.56/857.70	Search stopped after 1/512 iteration(s) with 0 uncovered t-sets and 139592615 multicovered t-sets
+857.56/857.70	Used 3576 total iterations thus far
+857.56/857.70	Sorting rows for distinct coverage
+864.97/865.02	Saving rows in resurrection buffer
+864.97/865.02	Met coverage with 343 rows
+864.97/865.04	Trying 300 rows
+864.97/865.04	Building start state
+871.37/871.85	Searching
+912.26/912.42	0 iterations left after this one
+912.26/912.51	Search stopped after 512/512 iteration(s) with 122 uncovered t-sets and 121566277 multicovered t-sets
+912.26/912.51	Used 4088 total iterations thus far
+912.26/912.51	Sorting rows for distinct coverage
+928.96/929.08	Saving rows in resurrection buffer
+928.96/929.08	Failed to meet coverage with 300 rows
+929.06/929.16	Trying 329 rows
+929.06/929.16	Building start state
+936.26/936.36	Searching
+975.46/975.50	0 iterations left after this one
+975.46/975.59	Search stopped after 512/512 iteration(s) with 28 uncovered t-sets and 133723563 multicovered t-sets
+975.46/975.59	Used 4600 total iterations thus far
+975.46/975.59	Sorting rows for distinct coverage
+989.36/989.73	Saving rows in resurrection buffer
+989.36/989.74	Failed to meet coverage with 329 rows
+989.36/989.79	Trying 338 rows
+989.36/989.79	Building start state
+996.96/997.01	Searching
