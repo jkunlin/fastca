@@ -20,3 +20,7 @@ Please refer to the file `tables.pdf`.
 - Table 6-8 compare `FastCA` against its competitors for 2-4 way CCAG.
 
 - Table 9 present the experimental results about alternative versions of `FastCA` on 3-way real-world instances.
+
+Additional tables with cutoff time of 5 hours
+----
+Please refer to the file `additional_table.pdf`
