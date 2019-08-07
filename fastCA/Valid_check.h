@@ -307,10 +307,12 @@ public:
                 return false;
               }
               if (c[i].variable() == new_var) {
-                return true;
+                break;
               }
             }
-            return false;
+            if (i >= c.size()) {
+              return false;
+            }
           }
         }
       }
@@ -424,5 +426,5 @@ public:
   }
 #endif
 };
-}
+} // namespace Valid
 #endif /* end of include guard: VALID_CHECK_H_ONAP2ASG */

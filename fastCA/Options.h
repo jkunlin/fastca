@@ -16,10 +16,9 @@ public:
     return cumulativeValueCounts[option] - 1;
   }
   unsigned symbolCount(const unsigned option) const {
-    return option
-               ? cumulativeValueCounts[option] -
-                     cumulativeValueCounts[option - 1]
-               : cumulativeValueCounts[option];
+    return option ? cumulativeValueCounts[option] -
+                        cumulativeValueCounts[option - 1]
+                  : cumulativeValueCounts[option];
   }
   unsigned allSymbolCount() const { return *cumulativeValueCounts.rbegin(); }
 #ifndef NDEBUG

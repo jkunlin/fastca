@@ -116,9 +116,9 @@ void Coverage::initialize(
       }
     }
   }
-// std::cout << "Coverage initialize time: "
-//           << double(clock() - start) / CLOCKS_PER_SEC << std::endl;
-//	contents = std::vector<unsigned> (size, 0);
+  // std::cout << "Coverage initialize time: "
+  //           << double(clock() - start) / CLOCKS_PER_SEC << std::endl;
+  //	contents = std::vector<unsigned> (size, 0);
 
 #ifndef NDEBUG
   std::cout << "********Debuging Coverage********" << std::endl;
