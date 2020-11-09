@@ -42,9 +42,9 @@ ConstraintFile::ConstraintFile(const string &filename) {
       } while (sign != '-' && sign != '+');
       fileInputStream >> symbol;
       clause.append(InputTerm(sign == '-', symbol));
-      valid_clause.addLiteral(Valid::Literal(sign == '-', symbol));
+      valid_clause.push_back(Valid::Literal(sign == '-', symbol));
     }
-    formula.addClause(std::move(valid_clause));
+    formula.push_back(valid_clause);
   }
   fileInputStream.close();
 }
